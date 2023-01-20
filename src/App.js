@@ -389,7 +389,7 @@ function App() {
                 <div class="info-box">
                   <i class="bi bi-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>fmit@gmail.com<br/>contact@fmit.com</p>
+                  <p>offofficial.fmit.bd@gmail.com<br/></p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -517,7 +517,7 @@ function App() {
             Road 14, Khulna<br/>
              Bangladesh <br/><br/>
               <strong>Phone:</strong> +88 01913 467572<br/>
-              <strong>Email:</strong> fmit@gmail.com<br/>
+              <strong>Email:</strong> official.fmit.bd@gmail.com<br/>
             </p>
 
           </div>
